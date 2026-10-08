@@ -1,16 +1,33 @@
-## Hi there 👋
+# Brais Fernández
 
-<!--
-**braisfernandezr/braisfernandezr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Ingeniero Informático · Universidade da Coruña  
+💻 Backend · Cloud · DevOps · Infrastructure as Code
 
-Here are some ideas to get you started:
+Actualmente cursando el Máster en Ingeniería Informática en la Universidade da Coruña.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Me interesa especialmente el desarrollo backend, las arquitecturas distribuidas,
+la infraestructura cloud y la automatización.
+
+## Tecnologías
+
+**Backend**
+- Java · Spring Boot
+- Python · Django
+- APIs REST · Microservicios
+
+**Cloud & Infrastructure**
+- Docker
+- AWS
+- Ansible · Vagrant
+- Linux
+
+**Observabilidad**
+- Grafana · Loki · Tempo · Mimir
+
+**Bases de datos**
+- PostgreSQL · MySQL · MongoDB
+
+## Proyectos destacados
+
+🔹 **Cloud-Native Observability & Distributed Storage**  
+Infraestructura reproducible con MinIO, Docker, Ansible, Vagrant y Grafana/Loki/Tempo/Mimir.
