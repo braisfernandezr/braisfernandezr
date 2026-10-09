@@ -1,3 +1,13 @@
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.v9.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.v9.svg">
+    <img src="assets/banner-light.v9.svg" width="960" alt="Terminal animada con el perfil de Brais Fernández">
+  </picture>
+</div>
+
+<br>
+
 # Brais Fernández
 
 🎓 Ingeniero Informático · Universidade da Coruña  
